@@ -1,4 +1,4 @@
-# Linked-List & Circular-Linked_list
+# Linked-List & Circular-Linked-List
 ## Summary
 By ulitizing the terminal, this program allows a user to create a Linked List or a Circular Linked List of type **int** and manipulate its contents. The terminal displays a main menu of options and the user can select the options entering the into the terminal. For information on the list of all of the methods for the Linked List, please see Methods and the header files.
 

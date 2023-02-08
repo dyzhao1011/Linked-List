@@ -26,7 +26,7 @@ struct Node* tail = NULL;
    4. insert(int key, char option): creates and allocates memory to a new node. There are 3 options to choose where to insert
       the node that the user can choose from.
    5. search(int key): returns the position of the first instance of key that is found, otherwise, return -1.
-   6. deletes(int key): deallocates memory of the first instance of key and updates pointers of affected nodes. 
+   6. deleteNode(int key): deallocates memory of the first instance of key and updates pointers of affected nodes. 
    7. sortAscending() & sortDescending(): implemented using Selection Sort.
 
 */
